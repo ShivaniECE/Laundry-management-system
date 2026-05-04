@@ -54,6 +54,7 @@ A major highlight of this project is its electrocoagulation-based wastewater tre
 * Wastewater from previous wash cycles is collected
 * Electrocoagulation removes impurities, detergents, and suspended particles
 * Treated water is reused for up to three wash cycles
+  
   <img width="1536" height="1024" alt="ChatGPT Image May 4, 2026, 06_54_50 PM" src="https://github.com/user-attachments/assets/9a214b11-a187-4835-8e34-292673313022" />
 
 
@@ -122,6 +123,9 @@ The system follows a modular IoT architecture consisting of:
 * Web dashboard (admin and user interface)
 * Chatbot interface
 * Scheduling and monitoring system
+
+  <img width="1536" height="1024" alt="ChatGPT Image May 4, 2026, 07_03_42 PM" src="https://github.com/user-attachments/assets/74726c5a-4807-4d1d-8b57-20cb10fa82ce" />
+
 
 ---
 
